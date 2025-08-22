@@ -9,14 +9,12 @@
 
 <img src="https://github.com/michaelfernan/michaelfernan/assets/111091339/099f1502-7121-4c9b-bf8a-dc69a29cdc74" width="250px" align="right" alt="Desenho de Michael" style="border-radius: 100px;">
 
-Sou <strong>Michael Fernandes</strong>, desenvolvedor Full Stack com background em Ciências Biológicas e atualmente cursando <strong>Engenharia de Software (Bacharelado)</strong>.
+Sou <strong>Michael Fernandes</strong>, Desenvolvedor **Full Stack**, cursando **Engenharia de Software**, com experiência prática em projetos acadêmicos, voluntários e imersivos.  
 
-Em transição de carreira, já participei de <strong>mais de 20 projetos</strong> práticos usando tecnologias modernas como <strong>Java, JavaScript, TypeScript, React.js, Node.js, NestJS, Spring Boot e PostgreSQL</strong>. Atuei tanto no front-end quanto no back-end, desenvolvendo <strong>APIs RESTful</strong>, <strong>interfaces responsivas</strong> e <strong>integrações com bancos de dados</strong>.
+Atuei no desenvolvimento de soluções que vão desde **interfaces modernas e responsivas** até **APIs seguras** e **bancos de dados escaláveis**, aplicando boas práticas de código, autenticação JWT e versionamento com Git.  
 
-Formado na Trybe e residente em TIC no SENAI (Serratec), adquiri experiência técnica e também habilidades interpessoais como <strong>trabalho em equipe, comunicação eficaz e empatia</strong>. Estou buscando oportunidades como <strong>desenvolvedor júnior ou trainee</strong> nas áreas de <strong>Front-End, Back-End ou Full Stack</strong>, onde possa crescer profissionalmente e contribuir com soluções escaláveis, acessíveis e de qualidade.
+Já construí aplicações que uniram **usabilidade, performance e segurança**, adquirindo experiência com **React, Next.js, Node.js, Java, PHP, Spring Boot, PostgreSQL e MongoDB**.  
 
-🚀 Sempre em busca de novos aprendizados e desafios!
-</div>
 
 ---
 
