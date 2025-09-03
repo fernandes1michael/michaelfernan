@@ -9,7 +9,7 @@
 
 <img src="https://github.com/michaelfernan/michaelfernan/assets/111091339/099f1502-7121-4c9b-bf8a-dc69a29cdc74" width="250px" align="right" alt="Desenho de Michael" style="border-radius: 100px;">
 
-Sou <strong>Michael Fernandes</strong>, desenvolvedor Full Stack com background em Ciências Biológicas e atualmente cursando <strong>Engenharia de Software (Bacharelado)</strong>.
+Sou <strong>Michael Fernandes</strong>, desenvolvedor Full Stack formado em Ciências Biológicas e atualmente cursando <strong>Engenharia de Software (Bacharelado)</strong>.
 
 Em transição de carreira, já participei de <strong>mais de 20 projetos</strong> práticos usando tecnologias modernas como <strong>Java, JavaScript, TypeScript, React.js, Node.js, NestJS, Spring Boot e PostgreSQL</strong>. Atuei tanto no front-end quanto no back-end, desenvolvendo <strong>APIs RESTful</strong>, <strong>interfaces responsivas</strong> e <strong>integrações com bancos de dados</strong>.
 
